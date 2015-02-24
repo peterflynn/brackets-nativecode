@@ -1,0 +1,9 @@
+{
+    "name": "pflynn.nativecode",
+    "title": "C++/Objective-C Pack",
+    "homepage": "https://github.com/peterflynn/brackets-nativecode",
+    "author": "Peter Flynn",
+    "version": "1.0.0",
+    "engines": { "brackets": ">=1.0" },
+    "description": "Enhancements for Brackets when working with C, C++, Objective-C or Objective-C++ -- Objective-C/C++ syntax highlighting, Ctrl-T (Quick Find Definition) for navigating a file, Ctrl-J (Jump to Definition) on #include jumps to included file, Ctrl-Shift-J anywhere toggles between header and main src file."
+}
